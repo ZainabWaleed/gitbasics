@@ -1,1 +1,1 @@
-console.log('First attempt');
+console.log("Hello, today is Friday");
